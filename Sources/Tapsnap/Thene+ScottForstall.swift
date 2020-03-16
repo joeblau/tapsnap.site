@@ -121,7 +121,7 @@ private extension Node where Context == HTML.BodyContext {
     static func appStoreLink<T: ScottForstallThemable>(for site: T) -> Node {
         .a(
             .href(site.appStoreURL),
-            .img(.src("/img/us/app-store-dark.svg"))
+            .img(.src("/img/us/app-store-light.svg"))
         )
     }
 }
