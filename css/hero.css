@@ -34,13 +34,6 @@ footer {
     width: 100%;
 }
 
-b {
-    font-size: 100px;
-    line-height: 1.05;
-    font-weight: 700;
-    letter-spacing: -.015em;
-}
-
 a {
     color: #64D2FF;
     font-size: 18px;
@@ -61,6 +54,14 @@ a:hover {
 .icon {
     font-family: ".SF Symbols Fallback";
     opacity: 0.7;
+}
+
+h1 {
+    font-size: 80px;
+    line-height: 1.05;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    
 }
 
 h2 {
