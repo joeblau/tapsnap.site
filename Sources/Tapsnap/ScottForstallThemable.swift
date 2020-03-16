@@ -1,9 +1,5 @@
-//
-//  File.swift
-//  
-//
-//  Created by Joe Blau on 3/15/20.
-//
+// ScottForstallThemable.swift
+// Copyright (c) 2020 Tapsnap, LLC
 
 import Publish
 
